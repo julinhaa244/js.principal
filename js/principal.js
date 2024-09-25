@@ -12,4 +12,3 @@ var tdImc = paciente.querySelector(info.imc);
 
 }
 
-]
